@@ -1,0 +1,1 @@
+An Android Todo application implemented entirely in Kotlin. This project explores key Android development concepts including RecyclerView for task display, data management  using Room database or SharedPreferences, and user interaction handling for a robust task management experience.
